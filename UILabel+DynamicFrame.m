@@ -3,7 +3,6 @@
 //  EasonLex
 //
 //  Created by Eason Lin on 2015/12/29.
-//  Copyright © 2015年 outsm. All rights reserved.
 //
 
 #import "UILabel+DynamicFrame.h"
